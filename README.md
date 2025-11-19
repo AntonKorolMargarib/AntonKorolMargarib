@@ -34,7 +34,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://t.me/AntonyoKor">
+      <a href="https://t.me/AntonKorolevDev">
         <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
       </a>
     </td>
@@ -51,8 +51,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://t.me/AntonyoKor">
-        @AntonyoKor
+      <a href="https://t.me/AntonKorolevDev">
+        @AntonKorolevDev
       </a>
     </td>
     <td align="center">
