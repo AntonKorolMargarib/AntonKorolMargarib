@@ -4,14 +4,16 @@
 
 - ✏️ **Антон Королев**
 - 💻 **DevOps and Java Developer**
-- 📍  **Москва, Россия**
+- 📍  **Moscow, Russia**
+- 📈 **Main skills and Interests**: DevOps (linux, docker, Iac, CI/CD, k8s), Backend (java, spring, hibernate, Junit, Rest)
+- 💡 **Other skills**: SQL, Bash, Python, JDBC, OOP
 
 ---
 
 ## 🎯 Goals:
 
-- **Вырасти до Team Lead DevOps**
-- **Развиваться также горизонтально, как уверенный T-shape специалист**
+- **Grow up as a Team Lead DevOps**
+- **Develop horizontally as well, like a confident T-shape specialist**
 
 ---
 
@@ -125,7 +127,5 @@
 ### ⚙️ Other tools
 <p>
   <img src="https://cdn.simpleicons.org/apachejmeter" width="50" title="JMeter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" width="50"/>
 </p>
 
