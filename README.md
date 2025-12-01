@@ -5,8 +5,8 @@
 - ✏️ **Антон Королев**
 - 💻 **DevOps and Java Developer**
 - 📍  **Moscow, Russia**
-- 📈 **Main skills and Interests**: DevOps (linux, docker, Iac, CI/CD, k8s), Backend (java, spring, hibernate, Junit, Rest)
-- 💡 **Other skills**: SQL, Bash, Python, JDBC, OOP
+- 📈 **Main skills and Interests**: DevOps (Linux, Bash, Docker, Iac, CI/CD, K8s, Monitoring), Backend (java, spring, hibernate, Junit, Rest, Grpc)
+- 💡 **Other skills**: SQL, Python, JDBC, OOP, Kafka
 
 ---
 
@@ -128,4 +128,19 @@
 <p>
   <img src="https://cdn.simpleicons.org/apachejmeter" width="50" title="JMeter"/>
 </p>
+
+---
+
+| Проект | Описание | Инструменты и технологии | Функционал | Статус |
+|--------|----------|--------------------------|------------|--------|
+| **[Restful_grpc_authJWT](https://github.com/AntonKorolMargarib/Restful_grpc_authJWT)** | Реализация сервиса авторизации и Grpc протокола для внутренного взаимодействия | `Java` `Spring Boot` `PostgreSQL` `Docker` `Gradle` `Grpc` `JWT`  | - проверка авторизации на всех ручках<br>- Взаимодействие с Бэком через Grpc| 🚧 В разработке |
+| **[Packaging_and_deployment](https://github.com/AntonKorolMargarib/Packaging_and_deployment)** | Реализация автоматического развертывания и деплоя сервиса | `Linux` `Vagrant` `Ansible` `Docker` `K8s` `Jenkins` `Bash` `Prometheus` `Grafana` | - атоматическая конфигурация VM<br>- Деплой проекта<br>- Мониторинг систем| 🚧 В разработке |
+| **[Linux_network](https://github.com/AntonKorolMargarib/Linux_network)** | Настройка сетей в Linux на виртуальных машинах | `Linux` `Bash` `Vbox` | - Статическая маршрутизация между машинами<br>- Динамическая настройка IP | ✅ Завершен |
+| **[GitLab_CICD](https://github.com/AntonKorolMargarib/GitLab_CICD-Docker)** | Разработка простого CI/CD для проекта на Си | `Linux` `Gitlab CI/CD` `Bash` | - Сборка и деплой проекта | ✅ Завершен |
+| **[SimpleDocker](https://github.com/AntonKorolMargarib/SimpleDocker)** | Разработка простого докер образа для собственного сервера | `Linux` `Bash` `Docker` | - Создание своего мини-сервера<br>- Сборка мини-сервера через Докер<br>- Создание базового Docker-compose | ✅ Завершен |
+| **[Linux_monitoring_middle](https://github.com/AntonKorolMargarib/Linux_monitoring_middle)** | Мониторинг системы через Prometheus и Grafana | `Linux` `Bash` `Prometheus` `Grafana` | - Генератор логов<br>- Мониторинг через Bash<br>- Мониторинг через Prometheus и Grafana | ✅ Завершен |
+| **[Linux_monitoring_basic](https://github.com/AntonKorolMargarib/Linux_monitoring_easy)** | Мониторинг системы через Bash скрипты | `Linux` `Bash` | - Получение параметров системы<br>- Получение параметров файловой системы| ✅ Завершен |
+| **[Linux_basic](https://github.com/AntonKorolMargarib/linux_basics)** | Изучение базовых команд Linux | `Linux` `Bash` | - Базовые команды linux<br>- Настройка сети<br>- Использование планировщика CRON | ✅ Завершен |
+| **[Restfull_shopApi](https://github.com/AntonKorolMargarib/Restfull_shopApi_nginxBalance)** | API для магазина c репликами серверов и кешированием| `Java` `Spring Boot` `PostgreSQL` `Docker` `Gradle` `Nginx` `OpneApi` `Swagger` | - Настройка обратного проксирования<br>- Маршрутизация запросов<br>- Балансировка запросов и кеширование | ✅ Завершен |
+| **[Tictactoe_Spring](https://github.com/AntonKorolMargarib/tictactoeSpring_BasicAuth)** | Игра крестики-нолики с авторизацией и выбором режима| `Java` `Spring Boot` `PostgreSQL` `Docker` `Gradle` `Thymeleaf` `Jackson` `WebSocket`| - Авторизация пользоватей<br>- Выбор игры против ИИ или игроков | ✅ Завершен |
 
